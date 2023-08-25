@@ -1,0 +1,13 @@
+{
+  "name": "multipart-handle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "quangtho908 <quangtho23062002@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
